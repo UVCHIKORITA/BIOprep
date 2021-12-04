@@ -135,6 +135,8 @@ def encodefromkey():
         print("------")
         print("")
         menu()
+    else:
+        print("Enter next string:")
 
 
 
