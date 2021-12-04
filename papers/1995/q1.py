@@ -126,4 +126,16 @@ def createkey():
         print("")
         createkey()
 
+
+def encodefromkey():
+    global currentkey
+    if currentkey == "":
+        print("There is no current key. Please create key before continuing")
+        print("")
+        print("------")
+        print("")
+        menu()
+
+
+
 menu()
