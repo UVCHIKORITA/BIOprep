@@ -1,5 +1,24 @@
+"""
+
+
+In Roman times, numbers were represented using letters. The way of doing this, known as Roman
+Numerals, is often seen depicting the copyright date on films and television.
+Roman numerals are conventionally defined to represent numbers using seven letters: I=1, V=5,
+X=10, L=50, C=100, D=500 and M=1000. Numbers other than these are formed by placing letters
+together from left to right, in descending order of size, and adding their values. The basic rule is to
+always use the biggest numeral possible (e.g. 15 is represented as XV, but never as VVV, VX or XIIIII).
+Letters may not appear more than three times in a row, so there are six exceptions to these rules – the
+combinations IV, IX, XL, XC, CD and CM. In these cases a letter is placed before one of greater value,
+and the smaller value is subtracted from the larger, e.g. CD = 400.
+1 (a)
+[20 marks]
+Write a program which accepts a number, between 1 and 3999 inclusive, and outputs
+the same number in Roman numerals
+
+
+"""
 digits = ['I', 'V', 'X', 'L', 'C', 'D', 'M']
-digitValues = [1, 5, 10, 50, 100, 500, 1000]
+digitValues = [1, 5, 10, 50, 100, 500, 1000]  # Just so i can build algorithm
 
 
 def repr_digit(log10, val):
