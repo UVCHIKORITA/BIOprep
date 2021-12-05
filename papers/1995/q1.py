@@ -139,5 +139,13 @@ def encodefromkey():
         print("Enter next string:")
 
 
-
 menu()
+
+"""
+
+THIS IS LIKE DOING A GCSE NEA... so stopped. Main challenge here is probably multi-line input.
+
+Mark scheme has no mention of efficiency requirements, so can assume there's not really any shortcut.
+ 
+"""
+
