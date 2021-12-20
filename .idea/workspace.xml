@@ -20,12 +20,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="408c8c54-b19f-4e5a-87b4-912fe327924f" name="Default Changelist" comment="Add some files">
-      <change beforePath="$PROJECT_DIR$/papers/1995/q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/papers/1995/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/DaisyChains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/DoYouKnowYourABCs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/aircownditioning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/array_eversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/beautiful_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/carsOnStreet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/carsOnStreetTrial2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/climbing_the_ladder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/covering_stains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/day2 dive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/day3_binDiagnostic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/depth_measurement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/divanAndAStore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/equalOrNotEqual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/exactChange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/exactChange2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/factorial_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/findFiscalMonth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/gymnastics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/helloasdflakj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/hoofPaperScissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/life_of_flower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/lonelyPhoto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/minimize_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/missingBigram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/mixingMilk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/playfairCipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/polycarpSumsOfSubsequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/polycarpsquaresandcubes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/powerOf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/programmersandmathematicians.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/ratio_tiebreaker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/replacethenumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/speedingTicket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/squarestring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/theBucketList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/triangleOnRectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assortedquestions/walkinghome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/2009/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/2009/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/2009/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/2010/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/2010/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/2011/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/2011/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/2011/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/2017/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/2018/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/2018/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/2019/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers/2020/q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BIOprep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BIOprep.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/papers/.idea/csv-plugin.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +102,122 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../gitrokusoft" />
+  </component>
+  <component name="RunManager" selected="Python.q2 (1)">
+    <configuration name="polycarpsquaresandcubes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BIOprep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assortedquestions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assortedquestions/polycarpsquaresandcubes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BIOprep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/papers/2010" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/papers/2010/q1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BIOprep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/papers/2011" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/papers/2011/q2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BIOprep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/papers/2010" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/papers/2010/q2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="squarestring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BIOprep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assortedquestions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assortedquestions/squarestring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.q2 (1)" />
+        <item itemvalue="Python.q2" />
+        <item itemvalue="Python.q1" />
+        <item itemvalue="Python.polycarpsquaresandcubes" />
+        <item itemvalue="Python.squarestring" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -71,6 +250,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add some files" />
@@ -85,9 +265,284 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1638650173015" />
+    <state width="1259" height="152" key="GridCell.Tab.0.bottom" timestamp="1640043018947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="152" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1640043018947" />
+    <state width="1259" height="152" key="GridCell.Tab.0.center" timestamp="1640043018947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="152" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1640043018947" />
+    <state width="1259" height="152" key="GridCell.Tab.0.left" timestamp="1640043018947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="152" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1640043018947" />
+    <state width="1259" height="152" key="GridCell.Tab.0.right" timestamp="1640043018947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="152" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1640043018947" />
+    <state width="1259" height="98" key="GridCell.Tab.1.bottom" timestamp="1640040752318">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="98" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1640040752318" />
+    <state width="1259" height="98" key="GridCell.Tab.1.center" timestamp="1640040752318">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="98" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1640040752318" />
+    <state width="1259" height="98" key="GridCell.Tab.1.left" timestamp="1640040752318">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="98" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1640040752318" />
+    <state width="1259" height="98" key="GridCell.Tab.1.right" timestamp="1640040752318">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="98" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1640040752318" />
     <state x="233" y="61" key="Vcs.Push.Dialog.v2" timestamp="1638655836450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="61" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1638655836450" />
+    <state width="647" height="340" key="XDebugger.FullValuePopup" timestamp="1640029562161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="340" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1640029562161" />
+    <state x="189" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1639992170452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="189" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1639992170452" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1639940994584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1639940994584" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/minimize_distance.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/non_equal_neighbours.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/carsOnStreet.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/carsOnStreet.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/carsOnStreet.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/assortedquestions/carsOnStreet.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
